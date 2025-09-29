@@ -2,3 +2,8 @@ Project
 - Konsisten membuat website 1x seminggu
 - Belajar Cooding setiap hari
 - Membuat Project membuat website
+- Perubahan dengan menyesuaikan jadwal
+- Minimal Belajar Cooding 3 Jam sehari
+- 1 jam untuk teori dan 1 jam untuk praktik dan 1 jam untuk Project
+- Membuat Website sekolah 
+- Belajar bahasa PHP
