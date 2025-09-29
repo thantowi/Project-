@@ -5,5 +5,5 @@ Project
 - Perubahan dengan menyesuaikan jadwal
 - Minimal Belajar Cooding 3 Jam sehari
 - 1 jam untuk teori dan 1 jam untuk praktik dan 1 jam untuk Project
-- Membuat Website sekolah 
 - Belajar bahasa PHP
+- membuat website undangan
